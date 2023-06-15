@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="no_internet_title">No internet connection</string>
+    <string name="no_internet_error_text">There is no or poor internet connection in your device</string>
+    <string name="bio_cancel">Cancel</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="unknown_error_title">Error</string>
+    <string name="unknown_error_text">Sorry, unexpected error has happened. Please try again later</string>
+    <string name="sign_up_profile_creation">Profile Creation</string>
+    <string name="sign_up_profile_creation_details">Use the form below to submit your portfolio.\n An email and password are required.</string>
+    <string name="general_first_name">First name</string>
+    <string name="general_email_address">Email address</string>
+    <string name="general_password">Password</string>
+    <string name="general_website">Website</string>
+    <string name="general_sign_up">Sign Up</string>
+    <string name="confirmation_greating">Hello, %1$s!</string>
+    <string name="confirmation_greating_details">Your super-awesome portfolio has been successfully submitted! The preview below is what the community will see!</string>
+    <string name="general_submit">Submit</string>
+    <string name="general_required_field">Required Field!</string>
+    <string name="general_invalid_email">Invalid Email!</string>
+    <string name="genral_invalid_website">Invalid website!</string>
+
+</resources>
